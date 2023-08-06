@@ -1,0 +1,12 @@
+jupyter
+kaggle
+lightgbm
+matplotlib
+networkx
+numpy
+pandas
+plotly
+scipy
+torch
+seaborn
+dash
