@@ -2,7 +2,7 @@
 import PyPDF2
 import openai
 import os
-
+    
 # Initialize OpenAI API with your key
 openai.api_key = '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'
 
