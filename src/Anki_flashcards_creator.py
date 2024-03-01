@@ -66,6 +66,6 @@ def create_anki_cards(pdf_text,):
 # Main script execution
 if __name__ == "__main__":
 
-    pdf_text = read_pdf(f'{ROOT_DIRECTORY}/SOURCE_DOCUMENTS/constitution.pdf')
+    pdf_text = read_pdf(f'{ROOT_DIRECTORY}/SOURCE_DOCUMENTS/test.pdf')
     
     create_anki_cards(pdf_text)
