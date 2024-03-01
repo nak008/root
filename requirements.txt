@@ -10,3 +10,5 @@ scipy
 torch
 seaborn
 dash
+PyPDF2
+openai
